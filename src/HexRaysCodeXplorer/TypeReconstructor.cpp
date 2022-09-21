@@ -28,6 +28,7 @@
 
 #include "Debug.h"
 #include "Utility.h"
+#include <memory>
 
 #if !defined (__LINUX__) && !defined (__MAC__)
 #include <tchar.h>
